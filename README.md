@@ -7,7 +7,6 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 ```
 https://github.com/YasinCanBuyukarslan/kodluyoruzilkrepo.git
 ```
->https://github.com/YasinCanBuyukarslan/kodluyoruzilkrepo.git
 
 ![Örnek Resim](https://oprimeiroportal.com.br/wp-content/uploads/2022/02/21175634969004.jpg)
 
@@ -23,5 +22,5 @@ code .
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-## Lisance
+## License
 [MIT]()
