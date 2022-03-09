@@ -4,11 +4,13 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+![Örnek Resim](https://oprimeiroportal.com.br/wp-content/uploads/2022/02/21175634969004.jpg)
+
 ```
 https://github.com/YasinCanBuyukarslan/kodluyoruzilkrepo.git
 ```
 
-![Örnek Resim](https://oprimeiroportal.com.br/wp-content/uploads/2022/02/21175634969004.jpg)
+
 
 ## Usage
 
